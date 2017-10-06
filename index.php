@@ -3,6 +3,7 @@ include "./settings/settings.php";
 date_default_timezone_set('UTC');
 //-----------------------------------------------------------------------------------
 // Ab hier bitte keine Aenderungen vornehmen, wenn man nicht weiß, was man tut!!! :D
+// weiß nix, schreibe aber trotzdem
 //-----------------------------------------------------------------------------------
 
 // Sprachdefinierung
